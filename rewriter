@@ -1,67 +1,68 @@
 <ANALYSIS_INITIALIZATION>
-Content type detected: TECHNICAL
-Focus type confirmed: CHAPTER
-Academic level set: 4 (Research level)
-Location parameters validated: Chapter 3
+[LLM to detect and specify content type]
+[LLM to determine focus type]
+[Standard parameters to be validated]
 </ANALYSIS_INITIALIZATION>
 
 <SEQUENTIAL_ANALYSIS>
-### First Pass - Global Understanding
-[Content analysis of Chapter 3 with research-level depth]
-- Main thesis identification
-- Structural overview
-- Key arguments mapping
+First Pass - Global Understanding
 
-### Second Pass - Technical Details
-[Detailed technical analysis following research-level parameters]
-- Methodological framework
-- Data analysis procedures
-- Technical specifications
-- Validation methods
+[Content analysis with specified depth]
 
-### Third Pass - Critical Analysis
+    Main thesis identification
+    Structural overview
+    Key arguments mapping
+
+Second Pass - Technical Details
+
+[Detailed technical analysis]
+
+    Methodological framework
+    Data analysis procedures
+    Technical specifications
+    Validation methods
+
+Third Pass - Critical Analysis
+
 [Advanced theoretical framework analysis]
-- Theoretical underpinnings
-- Methodological rigor
-- Research implications
-</SEQUENTIAL_ANALYSIS>
+
+    Theoretical underpinnings
+    Methodological rigor
+    Research implications
+    </SEQUENTIAL_ANALYSIS>
 
 <PRIMARY_ELEMENTS_ANALYSIS>
-[Research-level analysis of each element with appropriate technical depth]
+[Analysis of each element]
 
 Main Arguments:
-[Detailed analysis with high theoretical complexity]
+[Detailed analysis]
 
 Research Questions:
-[Comprehensive examination of research objectives]
+[Examination of research objectives]
 
 Methodology:
-[In-depth methodological analysis]
+[Methodological analysis]
 
 [Continue with remaining PRIMARY_ELEMENTS...]
 </PRIMARY_ELEMENTS_ANALYSIS>
 
 <CONTEXTUAL_INTEGRATION>
-[Integration of contextual elements at research level]
-- Historical context analysis
-- Cultural factors evaluation
-- Technological influence assessment
-[...]
-</CONTEXTUAL_INTEGRATION>
+[Integration of contextual elements]
+
+    Historical context analysis
+    Cultural factors evaluation
+    Technological influence assessment
+    [...]
+    </CONTEXTUAL_INTEGRATION>
 
 <TECHNICAL_FOCUS_ELEMENTS>
-[Detailed technical analysis as per TECHNICAL type]
-- Methodology validation
-- Technical assumptions examination
-- Data analysis methods evaluation
-[...]
-</TECHNICAL_FOCUS_ELEMENTS>
+[Technical analysis]
 
-<CITATIONS>
-[APA 7th Edition format]
-In-text citations: (Author, Year)
-Full references listed at end
-</CITATIONS>
+    Methodology validation
+    Technical assumptions examination
+    Data analysis methods evaluation
+    [...]
+    </TECHNICAL_FOCUS_ELEMENTS>
 
 <ERROR_HANDLING_REPORT>
 Knowledge gaps identified: [List]
@@ -76,6 +77,8 @@ Logical coherence: Assessed
 [...]
 </QUALITY_VERIFICATION>
 
-<REFERENCES>
-[Full APA 7th Edition reference list]
-</REFERENCES>
+<USER_PARAMETERS>
+Academic level: 4 (Research level)
+Location: Chapter 3
+[Additional user-defined parameters as needed]
+</USER_PARAMETERS>
