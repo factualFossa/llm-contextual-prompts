@@ -1,84 +1,90 @@
 <ANALYSIS_INITIALIZATION>
-[LLM to detect and specify content type]
-[LLM to determine focus type]
-[Standard parameters to be validated]
+[LLM to identify and categorize content type]
+
+Document type (book, article, paper, report, etc.)
+Subject matter domain
+Content structure and format
+[Initial parameters validation]
 </ANALYSIS_INITIALIZATION>
 
 <SEQUENTIAL_ANALYSIS>
 First Pass - Global Understanding
-
-[Content analysis with specified depth]
-
-    Main thesis identification
-    Structural overview
-    Key arguments mapping
-
-Second Pass - Technical Details
-
-[Detailed technical analysis]
-
-    Methodological framework
-    Data analysis procedures
-    Technical specifications
-    Validation methods
-
-Third Pass - Critical Analysis
-
-[Advanced theoretical framework analysis]
-
-    Theoretical underpinnings
-    Methodological rigor
-    Research implications
-    </SEQUENTIAL_ANALYSIS>
-
+[Comprehensive content analysis]
+Core message/thesis identification
+Structural framework mapping
+Key concepts and arguments
+Second Pass - Detailed Examination
+[In-depth content analysis]
+Supporting evidence evaluation
+Data presentation assessment
+Contextual relationships
+Source credibility verification
+Third Pass - Critical Evaluation
+[Advanced analytical framework]
+Theoretical foundation assessment
+Evidence quality evaluation
+Impact and implications analysis
+</SEQUENTIAL_ANALYSIS>
 <PRIMARY_ELEMENTS_ANALYSIS>
-[Analysis of each element]
-
+[Systematic breakdown of core components]
 Main Arguments:
-[Detailed analysis]
-
-Research Questions:
-[Examination of research objectives]
-
-Methodology:
-[Methodological analysis]
-
-[Continue with remaining PRIMARY_ELEMENTS...]
+[Evidence-based analysis]
+[Fact verification]
+Key Concepts:
+[Conceptual framework examination]
+Supporting Evidence:
+[Source validation]
+[Data integrity check]
 </PRIMARY_ELEMENTS_ANALYSIS>
-
 <CONTEXTUAL_INTEGRATION>
-[Integration of contextual elements]
-
-    Historical context analysis
-    Cultural factors evaluation
-    Technological influence assessment
-    [...]
-    </CONTEXTUAL_INTEGRATION>
-
-<TECHNICAL_FOCUS_ELEMENTS>
-[Technical analysis]
-
-    Methodology validation
-    Technical assumptions examination
-    Data analysis methods evaluation
-    [...]
-    </TECHNICAL_FOCUS_ELEMENTS>
-
+[Comprehensive context analysis]
+Historical background
+Contemporary relevance
+Field-specific implications
+Cross-disciplinary connections
+</CONTEXTUAL_INTEGRATION>
+<ZETTELKASTEN_INTEGRATION>
+[Analysis of znotes.txt]
+Relevant note identification
+Conceptual connections mapping
+Knowledge network visualization
+Cross-referencing with current content
+</ZETTELKASTEN_INTEGRATION>
+<FACT_VERIFICATION>
+[Rigorous fact-checking protocol]
+Source verification
+Cross-reference checking
+Web search validation (if available)
+Confidence level assessment
+</FACT_VERIFICATION>
 <ERROR_HANDLING_REPORT>
-Knowledge gaps identified: [List]
-Conflicting information: [Documentation]
-Confidence levels: [Assessment]
+Knowledge gaps: [Documented]
+Information conflicts: [Identified]
+Uncertainty areas: [Listed]
+Required additional research: [Specified]
 </ERROR_HANDLING_REPORT>
+<ETHICAL_CONSIDERATIONS>
+Privacy protection: [Assured]
+Data handling compliance: [Verified]
+Ethical guidelines adherence: [Confirmed]
+</ETHICAL_CONSIDERATIONS>
+<OUTPUT_FORMATTING>
 
-<QUALITY_VERIFICATION>
-Factual accuracy: Verified
-Citation validity: Confirmed
-Logical coherence: Assessed
-[...]
-</QUALITY_VERIFICATION>
+Key concepts in bold
+APA citation style
+Structured hierarchical presentation
+Clear section demarcation
+</OUTPUT_FORMATTING>
 
 <USER_PARAMETERS>
-Academic level: 4 (Research level)
-Location: Chapter 3
-[Additional user-defined parameters as needed]
+Academic level: 2 [1-5 scale]
+1: Undergraduate
+2: Graduate
+3: Doctoral
+4: Post-doctoral
+5: Expert/Advanced researcher
+Focus area: [Specific section/chapter]
+Output format: [Specified format]
+Additional parameters: [As needed]
 </USER_PARAMETERS>
+
