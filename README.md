@@ -1,3 +1,3 @@
 # llm-contextual-prompts
 
-- `rewriter` - performs comprehensive text analysis with configurable parameters for content type, focus area, and academic depth, designed for efficient processing of academic texts, articles, and research papers.
+- `zRewriter-*` - Designed to transform source material into a rich network of interconnected insights, inspired by the principles of the Zettelkasten method. This approach maintains intellectual rigor while encouraging creative connections. Each version of zRewriter is specifically tailored to the capabilities of the respective language model, ensuring optimal performance and relevance.
