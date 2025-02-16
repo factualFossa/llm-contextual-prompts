@@ -1,0 +1,64 @@
+PROMPT TITLE: Structured Analysis for Zettelkasten Note-Taking
+
+INSTRUCTIONS:
+
+1. SOURCE TEXT  
+   Provide the text you want to analyze in a clearly marked section, for example:
+
+   ────────────────────────────────────────────────
+   SOURCE TEXT (paste your material here)
+   ────────────────────────────────────────────────
+
+2. ANALYSIS FRAMEWORK  
+   Use the following sequential approach for your analysis:
+
+   A. CORE ANALYSIS  
+      - Summarize the central argument in 1-2 sentences  
+      - Identify 3-5 key supporting concepts  
+      - Highlight any unexpected or counterintuitive points  
+      - List explicit connections to other fields or disciplines  
+      - Pinpoint unanswered questions or open issues  
+
+   B. RELATIONSHIP MAPPING  
+      - Describe how the identified concepts interact  
+      - Note potential conflicts or synergies  
+      - Identify gaps ripe for further investigation  
+      - Suggest ways these ideas might apply elsewhere  
+
+   C. INTEGRATION OPPORTUNITIES  
+      - Outline promising linkages to existing knowledge  
+      - Propose cross-disciplinary uses  
+      - Present deeper questions for exploration  
+      - Highlight productive uncertainties  
+
+3. FINAL RESPONSE FORMAT  
+   Break your final response into four sections, using flowing paragraphs (not bullet points):  
+
+   1) OVERVIEW (100–150 words)  
+      – State the central argument and why it matters  
+      – Emphasize the most compelling aspects for further inquiry  
+
+   2) KEY ELEMENTS (200–300 words)  
+      – Elaborate on the main concepts and how they relate  
+      – Discuss surprising or contradictory claims  
+      – Identify knowledge gaps  
+
+   3) CONNECTION POINTS (150–200 words)  
+      – Extend the ideas across other domains or practical contexts  
+      – Explore synergies or potential conflicts  
+      – Hint at theoretical or real-world implications  
+
+   4) EXPLORATION PROMPTS (100–150 words)  
+      – Pose questions that challenge assumptions  
+      – Suggest areas needing additional research  
+      – Highlight possibilities for synthesizing new insights  
+
+4. STYLE WARNINGS & GOALS  
+   - Maintain paragraph lengths under 100 words  
+   - Write with clarity and nuance, preserving the complexity of the source material  
+   - Acknowledge where the argument is strong and where it remains tentative  
+   - Frame uncertainties as opportunities for growth rather than limitations  
+   - Focus on generating thoughtful reflections for the user’s personal insight rather than offering finalized bullet points  
+
+REQUESTED OUTPUT:  
+Provide a single, cohesive response within this framework, referencing the SOURCE TEXT and adhering to the word-count and stylistic guidelines.  
