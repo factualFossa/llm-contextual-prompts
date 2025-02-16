@@ -1,64 +1,7 @@
-PROMPT TITLE: Structured Analysis for Zettelkasten Note-Taking
+Transform your source material into layered insights through a structured method specifically adapted for LLM OpenAI’s o1. Your aim is to create a foundational text for Zettelkasten-style note-taking, preserving the original depth while encouraging personal engagement. Begin by dissecting the content in three consecutive phases: Core Analysis, Relationship Mapping, and Integration Opportunities. In your Core Analysis, concisely capture the core argument in one or two sentences, determine three to five principal supporting ideas, spotlight surprising or paradoxical positions, note explicit links to other areas of knowledge, and pose any unresolved questions that arise.
 
-INSTRUCTIONS:
+Move next to Relationship Mapping, where you explore how these primary concepts interconnect, noting any tensions, complementarities, or open seams. Examine how these ideas might illuminate one another and identify overlaps inviting deeper inquiries or fresh applications. In Integration Opportunities, highlight thoughtful bridging points to your existing knowledge, suggesting creative cross-disciplinary uses and opening up catalytic questions for further exploration. Pinpoint those areas where uncertainty offers a fertile field for insight.
 
-1. SOURCE TEXT  
-   Provide the text you want to analyze in a clearly marked section, for example:
+After completing this tripartite analysis, structure your response to include four components. First, provide an Overview of 100–150 words, capturing the central argument and outlining its significance. Then elaborate on the Key Elements in 200–300 words, clarifying essential themes, noteworthy discoveries, and any conceptual gaps. In the Connection Points section of 150–200 words, demonstrate links to other disciplines, possible real-world applications, and theoretical expansions. Finally, end with Exploration Prompts spanning 100–150 words, focusing on questions that stretch assumptions, areas calling for more data, and enticing opportunities for synthesis.
 
-   ────────────────────────────────────────────────
-   SOURCE TEXT (paste your material here)
-   ────────────────────────────────────────────────
-
-2. ANALYSIS FRAMEWORK  
-   Use the following sequential approach for your analysis:
-
-   A. CORE ANALYSIS  
-      - Summarize the central argument in 1-2 sentences  
-      - Identify 3-5 key supporting concepts  
-      - Highlight any unexpected or counterintuitive points  
-      - List explicit connections to other fields or disciplines  
-      - Pinpoint unanswered questions or open issues  
-
-   B. RELATIONSHIP MAPPING  
-      - Describe how the identified concepts interact  
-      - Note potential conflicts or synergies  
-      - Identify gaps ripe for further investigation  
-      - Suggest ways these ideas might apply elsewhere  
-
-   C. INTEGRATION OPPORTUNITIES  
-      - Outline promising linkages to existing knowledge  
-      - Propose cross-disciplinary uses  
-      - Present deeper questions for exploration  
-      - Highlight productive uncertainties  
-
-3. FINAL RESPONSE FORMAT  
-   Break your final response into four sections, using flowing paragraphs (not bullet points):  
-
-   1) OVERVIEW (100–150 words)  
-      – State the central argument and why it matters  
-      – Emphasize the most compelling aspects for further inquiry  
-
-   2) KEY ELEMENTS (200–300 words)  
-      – Elaborate on the main concepts and how they relate  
-      – Discuss surprising or contradictory claims  
-      – Identify knowledge gaps  
-
-   3) CONNECTION POINTS (150–200 words)  
-      – Extend the ideas across other domains or practical contexts  
-      – Explore synergies or potential conflicts  
-      – Hint at theoretical or real-world implications  
-
-   4) EXPLORATION PROMPTS (100–150 words)  
-      – Pose questions that challenge assumptions  
-      – Suggest areas needing additional research  
-      – Highlight possibilities for synthesizing new insights  
-
-4. STYLE WARNINGS & GOALS  
-   - Maintain paragraph lengths under 100 words  
-   - Write with clarity and nuance, preserving the complexity of the source material  
-   - Acknowledge where the argument is strong and where it remains tentative  
-   - Frame uncertainties as opportunities for growth rather than limitations  
-   - Focus on generating thoughtful reflections for the user’s personal insight rather than offering finalized bullet points  
-
-REQUESTED OUTPUT:  
-Provide a single, cohesive response within this framework, referencing the SOURCE TEXT and adhering to the word-count and stylistic guidelines.  
+Compose your text in concise paragraphs under 100 words. Cultivate clarity without oversimplifying. Note both robust and speculative connections. Where knowledge is incomplete, treat it as an invitation for further thought rather than a deficiency. Your ultimate goal is to spark personal insight rather than deliver a succinct, finalized set of notes.
