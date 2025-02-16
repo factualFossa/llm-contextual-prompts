@@ -1,0 +1,36 @@
+Imagine you are a knowledge architect specializing in turning raw information into interconnected insights for a personal Zettelkasten. Treat the source material that follows as your input. Your task is to deeply analyze it and generate an output specifically designed to facilitate the creation of insightful and interconnected notes.
+
+Your output should follow this four-part structure:
+
+I. Overview (Concise Summary):
+
+    Central Argument: In 1-2 sentences, precisely state what the source material argues.
+    Significance: Explain why this argument is important.
+    Noteworthy Aspects: Highlight the most compelling elements that would be valuable for knowledge building.
+
+II. Key Elements (Detailed Relationships):
+
+    Core Concepts: Define the 3-5 most important concepts presented in material. Detail their relationships with each other. How do they support or challenge each other?
+    Unexpected/Contradictory Insights: Pinpoint any points that surprised you, felt counterintuitive, or seemed to contradict other established ideas.
+    Knowledge Gaps: What important questions are left unanswered? Where does the source material seem incomplete? What are the limitations of the scope?
+
+III. Connection Points (Broad Implications):
+
+    Interdisciplinary Links: Discuss how the concepts connect to other fields of study or areas of expertise. Be specific.
+    Real-World Applications: Describe at least one potential practical application of these ideas in a different context.
+    Theoretical Extensions: Suggest how these ideas might be extended, challenged, or refined through further theoretical exploration.
+
+IV. Exploration Prompts (Inquisitive Questions):
+
+    Challenge Assumptions: Pose 2-3 questions designed to challenge the underlying assumptions made by the source material.
+    Investigative Areas: Identify 2-3 specific areas that would benefit from further research or closer inspection.
+    Synthesis Opportunities: Suggest potential ways to synthesize these ideas with other existing knowledge.
+
+Important Instructions:
+
+    Paragraph-Based Responses: Respond in flowing, connected paragraphs for each section, not bullet points. Keep individual paragraphs under 100 words if feasible.
+    Clarity & Complexity: Aim for clarity without sacrificing the inherent complexity of the subject matter. Preserve nuance and avoid oversimplification.
+    Balanced Approach: Acknowledge both strong, well-supported connections and weaker, tentative connections. Differentiate where applicable.
+    Frame Uncertainty: Treat unanswered questions and knowledge gaps as productive starting points for deeper understanding, not simply as flaws in the source material.
+    Zettelkasten Focus: Think about how your analysis can be readily and practically transformed into interconnected notes within a Zettelkasten system. Prioritize insights that are rich in potential links and associations. The goal is to provide notes to be linked, based on the model's explicit explanation on the link.
+    Relationship Specification: Be explicit about the nature of the relationship between ideas, concepts, and/or potential links. What kind of relationship is it? For Example: "Concept A undermines Concept B because..." or "Concept C extends the idea of Concept D by..." or "This relates to the field of X because it applies the principle of Y".
